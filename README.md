@@ -4,7 +4,9 @@ A simple web application for collecting favorite restaurants
 
 # Project Running Environment
 
-Node.js
+Node.js: 4.17.1  
+express-handlebars: 5.3.0  
+font-awesome: 4.7.0
 
 ## Installation
 
@@ -26,4 +28,5 @@ Node.js
 - show restaurant information by clicking restaurant card
 
 ## Author
-Lewis Lu 
+
+Lewis Lu

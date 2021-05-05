@@ -91,4 +91,9 @@
   .card img {
     height: auto;
   }
+  .wrapper {
+    max-width: 80%;
+    padding-bottom: 7px;
+  }
+  .
 }
