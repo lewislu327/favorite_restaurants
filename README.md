@@ -10,16 +10,26 @@ font-awesome: 4.7.0
 
 ## Installation
 
-1. clone this project  
+1. clone this project
+   ```
    $ git clone https://github.com/lewislu327/favorite_restaurants.git
-2. Install npm Express  
+   ```
+2. Install npm Express
+   ```
    $ npm i express
-3. cd to project folder  
+   ```
+3. cd to project folder
+   ```
    cd favorite_restaurants
-4. Run this app  
+   ```
+4. Run this app
+   ```
    $ npm run dev
-5. If terminal shows below content means it's working  
+   ```
+5. If terminal shows below content means it's working
+   ```
    Express is listening on http://localhost:3000
+   ```
 
 ## Features
 
